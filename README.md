@@ -314,6 +314,7 @@
 <h2>change text colour</h2>
 
 <h2>balanced brackets</h2>
+<h2>programming without using main() function</h2>
 
 <h2>check vowels using switch statement</h2>
 <h2>convert entered char to reverse case</h2>
@@ -323,19 +324,20 @@
 <h2>Display today's date and time</h2>
 <h2>Escape sequence</h2>
 <h2>find day on given date</h2>
-- find largest and smallest using global varriable declaration
-- fizzbuzz program
-- fraction
-- hellow world example
-- if else statement
-- input string with spaces (gets() example)
-- menu driven sysytem
-- military time (24hrs to 12hrs)
-- putchar() example
-- print an integer
-- programming without using main() function
-- reading input examples
-- shutdown ubuntu linux
-- shutdown windows xp
-- switch case
-- use of getchar() example
+<h2>find largest and smallest using global varriable declaration</h2>
+<h2>fizzbuzz program</h2>
+<h2>fraction</h2>
+<h2>hellow world example</h2>
+<h2>if else statement</h2>
+<h2>input string with spaces (gets() example)</h2>
+<h2>menu driven sysytem</h2>
+<h2>military time (24hrs to 12hrs)</h2>
+<h2>putchar() example</h2 
+
+
+<h2>reading input examples</h2>
+<h2>shutdown ubuntu linux</h2>
+<h2>shutdown windows xp</h2>
+<h2>switch case</h2>
+<h2>use of getchar() example</h2>
+<h2>print an integers</h2> 
