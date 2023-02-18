@@ -3,23 +3,24 @@
 - Making calenders
 - Shutdown window 7
 - ASCII value of a character
->
-int main()
-{
-char c;
-printf("Enter a character:");
-scanf("%C", &c);
-printf("ASCII value of %c = %d",c,c);
-return 0;
-}
 
+**#include <studio.h>**
 
+**int main()**
 
+**{**
 
+**char c;**
 
+**printf("Enter a character:");**
 
+**scanf("%C", &c);**
 
+**printf("ASCII value of %c = %d",c,c);**
 
+**return 0;**
+
+**}**
 
 - change text backgroud colour
 - change text colour
