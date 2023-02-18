@@ -312,15 +312,17 @@
 <h2>change text backgroud colour</h2>
 
 <h2>change text colour</h2>
+
 <h2>balanced brackets</h2>
-- check vowels using switch statement
-- convert entered char to reverse case
-- convert numbers to words
-- Date format
-- Difference between two time period
-- Display today's date and time
-- Escape sequence
-- find day on given date
+
+<h2>check vowels using switch statement</h2>
+<h2>convert entered char to reverse case</h2>
+<h2>convert numbers to words</h2>
+<h2>Date format</h2>
+<h2>Difference between two time period</h2>
+<h2>Display today's date and time</h2>
+<h2>Escape sequence</h2>
+<h2>find day on given date</h2>
 - find largest and smallest using global varriable declaration
 - fizzbuzz program
 - fraction
